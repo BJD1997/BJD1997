@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Azure managed apps or ARM templates and other automations to make life easier
 - 📫 How to reach me bauke-jan (at) davids (dot) online
 
-Already passed AZ-900, AZ-104, AZ-305 and NSE4 7.2  :)
+Already passed AZ-900, AZ-104, AZ-305, NSE4 7.2, and NSE5 FortiManager 7.2  :)
 
 <!---
 BJD1997/BJD1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
